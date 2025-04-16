@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+sentence-transformers==2.6.1
+transformers==4.36.2
+huggingface-hub==0.20.3
+pandas
+numpy
+requests
+beautifulsoup4
